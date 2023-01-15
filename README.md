@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/abhisheksingh98">
   <img align="left" alt="Abhishek's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/abhishekk07">
+<a href="https://www.instagram.com/hiabhishekk">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://medium.com/@abhisheksingh98">
